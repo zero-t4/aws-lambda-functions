@@ -1,0 +1,23 @@
+{
+  "name": "telegram-pipeto-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-t4/telegram-pipeto-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-t4/telegram-pipeto-bot/issues"
+  },
+  "homepage": "https://github.com/zero-t4/telegram-pipeto-bot#readme",
+  "dependencies": {
+    "telegraf": "3.32.0"
+  }
+}
